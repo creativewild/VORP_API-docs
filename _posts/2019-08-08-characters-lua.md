@@ -10,7 +10,7 @@ mermaid: true
 
 # ***VORP CHARACTERS***
 
-* This code gives you the players clothes and skin from the `server` side.
+* This code gives you, the players, clothes and skin from the `server` side.
 
 ```lua
 -- server side
